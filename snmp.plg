@@ -12,8 +12,8 @@
 <!ENTITY cfgdir      "/boot/config/plugins/&name;">
 <!ENTITY pkghost     "https://mirrors.slackware.com/slackware/slackware64-current/slackware64/n/">
 
-<!ENTITY snmppkg     "net-snmp-&pkgversion;-x86_64-4.txz">
-<!ENTITY snmppkgmd5  "119ecee76951c11d782f077c7a89826e">﻿
+<!ENTITY snmppkg     "net-snmp-&pkgversion;-x86_64-5.txz">
+<!ENTITY snmppkgmd5  "3ed1f1794ca434c3e3dcb56fa0eac51e">
 
 <!ENTITY libnlpkg    "libnl-1.1.4-x86_64-1.txz">
 <!ENTITY libnlpkgmd5 "435837a5bf0401a937d6ec93e458333b">
