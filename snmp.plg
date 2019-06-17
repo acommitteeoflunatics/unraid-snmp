@@ -21,7 +21,7 @@
 <!ENTITY iconfile    "snmp.png">
 <!ENTITY iconfilemd5 "863e97dc0e59ae9352f558ee8e0d40a2">
 
-<!ENTITY community   "a-committee-of-lunatics-ltd">
+<!ENTITY community   "tartarus">
 <!ENTITY location    "Austin, TX">
 <!ENTITY contact     "jjackson@acommitteeoflunatics.net">
 ]>
