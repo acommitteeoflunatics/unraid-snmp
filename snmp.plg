@@ -5,7 +5,7 @@
 <!ENTITY author      "coppit">
 <!ENTITY version     "2018.07.22">
 <!ENTITY pluginURL   "https://github.com/acommitteeoflunatics/unraid-snmp/raw/master/snmp.plg">
-<!ENTITY pkgversion  "5.7.3">
+<!ENTITY pkgversion  "5.8">
 <!ENTITY gitURL      "https://raw.githubusercontent.com/acommitteeoflunatics/unraid-snmp/master">
 <!ENTITY plugdir     "/usr/local/emhttp/plugins/&name;">
 <!ENTITY pkgdir      "/boot/packages">
